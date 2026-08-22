@@ -1,0 +1,5 @@
+com\mycompany\chatapplication\ChatApplication.class
+com\mycompany\chatapplication\ChatServer$ClientHandler.class
+com\mycompany\chatapplication\ChatServer.class
+com\mycompany\chatapplication\ChatClient.class
+com\mycompany\chatapplication\ChatGUIClient.class
